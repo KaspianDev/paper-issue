@@ -1,0 +1,4 @@
+name: PE
+version: '${version}'
+main: paper.bug.pe.PE
+api-version: 1.19
